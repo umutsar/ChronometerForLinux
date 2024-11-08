@@ -1,0 +1,2 @@
+# ChronometerForLinux
+Python tkinter library
